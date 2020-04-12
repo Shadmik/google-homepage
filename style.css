@@ -40,6 +40,11 @@ img {
   position: relative;
 }
 input {
+  margin-top: 10px;
+  margin-left: 45px;
+  width: 520px;
+}
+input:hover {
   border: 2px solid white;
   margin-top: 10px;
   margin-left: 45px;
