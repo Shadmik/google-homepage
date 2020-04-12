@@ -2,8 +2,6 @@ body {
   position: relative;
   font-family: sans-serif;
   margin-right: 0px;
-  width: 100vw;
-  height: 100vh;
 }
 #corner {
   margin-left: 870px;
