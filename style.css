@@ -16,7 +16,8 @@ body {
 }
 #micro {
   margin-left: 543px;
-  display: inline;
+  margin-top: 14px;
+  position: fixed;
 }
 .search {
   width: 14px;
