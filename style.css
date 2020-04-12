@@ -8,16 +8,21 @@ body {
   margin-top: -270px;
   position: fixed;
 }
-img {
+#logo {
   margin-top: 148px;
   margin-left: 536px;
+}
+#micro {
+  margin-top: 14px;
+  margin-left: 543px;
+  display: inline;
 }
 .search {
   width: 14px;
   height: 14px;
   position: absolute;
-  top: -133px;
-  left: -520px;
+  top: 16px;
+  left: 15px;
 }
 #searchbox {
   width: 584px;
@@ -38,16 +43,18 @@ img {
   position: relative;
 }
 input {
+  margin-top: 10px;
+  margin-left: -516px;
   border: none;
-  margin-top: 16px;
-  margin-left: 45px;
-  width: 520px;
-  height: 18px;
+  height: 20px;
+  font-size: 16px;
+  width: 480px;
+  position: absolute;
 }
 input:focus {
   outline: none;
 }
-  
+
 .googlesearch {
   background: #f1f1f1;
   width: 126px;
@@ -184,3 +191,5 @@ li {
 .first {
   margin-left: 730px;
 }
+
+
